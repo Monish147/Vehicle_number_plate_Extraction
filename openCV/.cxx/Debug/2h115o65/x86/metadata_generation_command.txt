@@ -1,0 +1,19 @@
+                        -H/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/home/monish/Android/Sdk/ndk/23.1.7779620
+-DCMAKE_ANDROID_NDK=/home/monish/Android/Sdk/ndk/23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=/home/monish/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/monish/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/monish/Desktop/Jmad_mini_proj/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/monish/Desktop/Jmad_mini_proj/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86
+-GNinja
+-DANDROID_STL=c++_shared
+                        Build command args: []
+                        Version: 2

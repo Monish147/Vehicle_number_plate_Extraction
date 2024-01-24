@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/monish/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/RelWithDebInfo/gx26144j/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/monish/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/RelWithDebInfo/gx26144j/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "opencv_jni_shared",
+      "output": "/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/RelWithDebInfo/gx26144j/x86/libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/monish/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/monish/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

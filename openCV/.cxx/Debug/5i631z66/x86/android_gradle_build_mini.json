@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/monish/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/5i631z66/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/monish/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/5i631z66/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/5i631z66/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

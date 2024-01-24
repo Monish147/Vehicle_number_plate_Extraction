@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 318563530
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86/android_gradle_build.json due to:",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 60765863
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 582391131
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86\u0027",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 313853274
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86\u0027",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1050352946
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /home/monish/Android/Sdk/cmake/3.22.1/bin/cmake \\\n  -H/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/home/monish/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/monish/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/monish/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/monish/Android/Sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/monish/Desktop/Jmad_mini_proj/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/monish/Desktop/Jmad_mini_proj/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86 \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86 \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2126216613
+  },
+  {
+    "level_": 0,
+    "message_": "/home/monish/Android/Sdk/cmake/3.22.1/bin/cmake \\\n  -H/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/home/monish/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/monish/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/monish/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/monish/Android/Sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/monish/Desktop/Jmad_mini_proj/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/monish/Desktop/Jmad_mini_proj/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86 \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86 \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1910388508
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86/compile_commands.json.bin normally",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -866115981
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1827620389
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked /home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86/compile_commands.json to /home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/tools/debug/x86/compile_commands.json",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1902945115
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 110452695
+  }
+]

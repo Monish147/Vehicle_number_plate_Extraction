@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/5i631z66/x86'
+ninja: no work to do.

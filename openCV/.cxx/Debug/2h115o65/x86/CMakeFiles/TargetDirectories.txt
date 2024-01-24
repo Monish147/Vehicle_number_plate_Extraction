@@ -1,0 +1,3 @@
+/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86/CMakeFiles/opencv_jni_shared.dir
+/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86/CMakeFiles/edit_cache.dir
+/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/Debug/2h115o65/x86/CMakeFiles/rebuild_cache.dir

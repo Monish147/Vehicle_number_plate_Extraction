@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/monish/Desktop/Jmad_mini_proj/openCV/.cxx/RelWithDebInfo/gx26144j/x86",
+  "command": "/home/monish/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/home/monish/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -O2 -g -DNDEBUG -fPIC -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c /home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/dummy.cpp",
+  "file": "/home/monish/Desktop/Jmad_mini_proj/openCV/libcxx_helper/dummy.cpp"
+}
+]
